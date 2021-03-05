@@ -30,7 +30,7 @@ describe('API SERVER', () => {
     request(api).get('/patient').expect(200, done);
   });
 
-  it('responds to post /cats with status 201', (done) => {
+  it('responds to post /patient with status 201', (done) => {
     request(api)
       .post('/patient')
       .send(testPatient)
