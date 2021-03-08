@@ -26,7 +26,10 @@ class Patient {
 
   static create(patient) {
     const newPatientId = patientData.length + 1;
-    const newPatient = new Patient({ id: newPatientId, ...patient });
+    const newPatient = new Patient({
+      id: newPatientId,
+      ...patient,
+    });
     patientData.push(newPatient);
     return newPatient;
   }

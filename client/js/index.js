@@ -1,5 +1,4 @@
-
-const form = document.querySelector('new-patient-form');
+const form = document.getElementById('new-patient-form');
 
 form.addEventListener('submit', submitPatient);
 

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1614959635131" clover="3.2.0">
+  <project timestamp="1614959635131" name="All files">
+    <metrics statements="58" coveredstatements="58" conditionals="0" coveredconditionals="0" methods="14" coveredmethods="14" elements="72" coveredelements="72" complexity="0" loc="58" ncloc="58" packages="3" files="4" classes="4"/>
+    <package name="server">
+      <metrics statements="15" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="data.js" path="D:\Aaron\Documents\FutureProof\Week 2\covid19_api\server\data.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+      </file>
+      <file name="server.js" path="D:\Aaron\Documents\FutureProof\Week 2\covid19_api\server\server.js">
+        <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="server.controllers">
+      <metrics statements="24" coveredstatements="24" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <file name="patients.js" path="D:\Aaron\Documents\FutureProof\Week 2\covid19_api\server\controllers\patients.js">
+        <metrics statements="24" coveredstatements="24" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="server.models">
+      <metrics statements="19" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+      <file name="patient.js" path="D:\Aaron\Documents\FutureProof\Week 2\covid19_api\server\models\patient.js">
+        <metrics statements="19" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="5" count="17" type="stmt"/>
+        <line num="6" count="15" type="stmt"/>
+        <line num="7" count="15" type="stmt"/>
+        <line num="11" count="9" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="16" count="5" type="stmt"/>
+        <line num="17" count="5" type="stmt"/>
+        <line num="18" count="18" type="stmt"/>
+        <line num="20" count="5" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="38" count="8" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="43" count="2" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
